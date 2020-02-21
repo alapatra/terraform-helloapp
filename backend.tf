@@ -3,6 +3,6 @@ terrfaorm {
         bucket = "terraform-subash"
         key    = "terraform/dev/helloapp"
         region = "us-east-1"
-        profiel = "subash"
+        profile = "subash"
     }
 }
