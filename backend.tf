@@ -1,4 +1,4 @@
-terrfaorm {
+terraform {
     backend "s3" {
         bucket = "terraform-subash"
         key    = "terraform/dev/helloapp"
