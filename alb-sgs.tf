@@ -1,5 +1,5 @@
 resource "aws_security_group" "default_lb" {
-  name        = "terraform-springboot-helloapp"
+  name        = "terraform-springboot-helloapp-lb"
   description = "Allow traffic"
   vpc_id      = "vpc-925066e8"
  
